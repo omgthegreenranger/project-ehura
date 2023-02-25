@@ -1,16 +1,23 @@
-# bootcamp-boilerplate
+# Projet Ehura
 
 ## Task
 
-Add a brief description that includes something cut from the challenge description
+ Build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
+
 
 ## Usage
 
-Describe the usage of the app.
+ - Clone the [repository](https://github.com/omgthegreenranger/project-ehura)
+ - `npm install`
+ - import the `./db/schema.sql` in to your MySQL database
+ - `npm start`, stop server, `npm run seed`.
+ - run server again
+ - fire up a REST client such as Insomnia
+ - send some stuff!
 
-*include a link to the page*
-*include an image of the app*
+##
+- Repository - https://github.com/omgthegreenranger/project-ehura
 
 ## Further details
 
-Add anything else that you'd want to include, including references or links to other info.
+The project name is a bit of a stretch, but the Communications Officer on the Enterprise 1701 was Lieutenant Uhura, and this is an e-commerce site, so _e_hura, get it?
