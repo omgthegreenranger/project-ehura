@@ -4,6 +4,8 @@
 
  Build the back end for an e-commerce site by modifying starter code. You’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
+ This is what I have done, and given it a delightful name. This was complete with Sequelize, MySQL2, dotenv.
+
 
 ## Usage
 
@@ -17,6 +19,7 @@
 
 ##
 - Repository - https://github.com/omgthegreenranger/project-ehura
+- Video walkthough: https://drive.google.com/file/d/1tf8BZOO0G3-qzdu-6syHB80gCDbNrWPp/view
 
 ## Further details
 
